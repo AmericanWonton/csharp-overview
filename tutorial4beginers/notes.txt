@@ -1,1 +1,29 @@
 Here are the notes for all of this lesson: https://www.youtube.com/watch?v=gfkTfcpWqAY
+
+C# vs. .NET
+C# is a programming language and .NET is a framework for building applications for windows...it's not
+limited to C#
+
+.NET is comprised of two things:
+1. CLR(Common Language Runtime) - Compiles application code to machine code for running. Uses 'JIT', or
+'Just in Time' code
+
+2. Class Library
+
+History of C#:
+Microsoft wanted a language that could be translated to machine code on Linux AND windows...
+so they borrowed ideas from Java. CLR is an application that is used to translate the machine language
+
+------------------------------------------
+.Net applications architrecture:
+Applications are made up of classes
+
+Classes - Contain data and Methods/functions
+Namespace - Container for related classes
+
+Assembly - A container for related namespaces. It can be an executable or 'DLL',
+or 'Dynamically Listed Language'.
+
+Application - A build up of assemblys
+
+------------------------------------------
