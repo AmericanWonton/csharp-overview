@@ -23,6 +23,7 @@ namespace HelloWorld
             Double myFirstDouble = 22.4;
             Console.WriteLine(myFirstString);
             Console.WriteLine("You can also format strings like this...\nIt sucks tho...: {0}\n{1}\n{2}", myFirstInt, myFirstString, myFirstDouble);
+            Console.WriteLine("Here is another example:{0} {1}", byte.MinValue, byte.MaxValue);
 
             /* If and else statements*/
             if (myFirstDouble == 22.4)
@@ -43,11 +44,102 @@ namespace HelloWorld
             string builtString = "Here is the result of our short conditional: " + testMessage + "\n";
             Console.WriteLine(builtString);
 
+
+            /* For debugging tools, press F9 on the line you'd like a breakpoint in.
+             * You can 'Step Into' the code with F10 to see it run*/
             /* For loops */
             for (int j = 0; j < 3; j++)
             {
                 Console.WriteLine("Here is j: {0}", j);
+                if (j == 2)
+                {
+                    break;
+                }
             }
+
+            /* While loops */
+            bool displayMenu = true;
+            while (displayMenu)
+            {
+                Console.WriteLine("This can go on forever...but we'll end it here....");
+                displayMenu = false;
+            }
+
+            int funNum = 0;
+            do
+            {
+                Console.WriteLine("Still in do while...");
+                funNum++;
+            } while (funNum != 2);
+
+            /* Here are arrays...Collections are WAY better than arrays */
+            int[] numbers = new int[5];
+            int[] numbers2 = new int[] { 4, 8, 22, 43 };
+            numbers[0] = 1;
+            numbers[1] = 2;
+            numbers[3] = 3;
+            Console.WriteLine("Here is the length of the array: {0}. Here is spot 1: {1}", numbers.Length, numbers[1]);
+            foreach (int aNumber in numbers2)
+            {
+                Console.WriteLine("Here is that number: {0}\n", aNumber);
+            }
+            string testString = "Here is a testString we shall convert to char array.";
+            char[] charArray = testString.ToCharArray();
+            Array.Reverse(charArray);
+            foreach (char theChar in charArray)
+            {
+                Console.WriteLine("Here is that char: {0}: ", theChar);
+            }
+
+            /* Test method, called below */
+            SayHello();
+            Console.WriteLine("Here is that string: {0}", stringPrinter("Here's a test string"));
+
+            /* Try catch method */
+            try
+            {
+                var number = "1234";
+                byte b = Convert.ToByte(number);
+                Console.WriteLine(b);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("The number could not be converted to a byte.");
+            }
+
+            /* Random number in range */
+            Random myRandom = new Random();
+            int randomNumber = myRandom.Next(1, 11);
+            Console.WriteLine("Here is that random number: {0}", randomNumber);
+
+
+            /* String stuff */
+            /* Date time */
+            DateTime myBirthday = DateTime.Parse("03/03/1995");
+            TimeSpan myAge = DateTime.Now.Subtract(myBirthday);
+            Console.WriteLine("My age is: {0}", myAge.TotalDays);
+
+            /* Class stuff */
+        }
+
+        /* Here are some defined classes */
+        class Car
+        {
+            public string Make { get; set; }
+            public string Model { get; set; }
+            public int Year { get; set; }
+            public string Color { get; set; }
+        }
+
+        /* Here are soem test methods... */
+        private static void SayHello()
+        {
+            Console.WriteLine("Hello world");
+        }
+
+        private static string stringPrinter(string message)
+        {
+            return message;
         }
     }
 }
