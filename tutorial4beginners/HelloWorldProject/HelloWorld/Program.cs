@@ -120,6 +120,22 @@ namespace HelloWorld
             Console.WriteLine("My age is: {0}", myAge.TotalDays);
 
             /* Class stuff */
+            Car myCar = new Car(); //Crete a distinct car
+            myCar.Make = "Test Make";
+            myCar.Model = "Test Model";
+            myCar.Year = 1986;
+            myCar.Color = "Silver";
+
+            Console.WriteLine("{0}, {1}, {2}, {3}", myCar.Make, myCar.Model, myCar.Year, myCar.Color);
+
+            Console.WriteLine("Here is the value of your car: {0}", DetermineCarValue(myCar));
+            Console.WriteLine("Here is a function called from this object: {0}", myCar.DetermineMarketValue());
+
+            myCar.Model = "Another Cool Model";
+            myCar.Year = 1965;
+            Console.WriteLine("{0}, {1}, {2}, {3}", myCar.Make, myCar.Model, myCar.Year, myCar.Color);
+
+            Car mySecondCar = new Car("Ford", "Escape", 2005, "Red-ish");
         }
 
         /* Here are some defined classes */
@@ -129,6 +145,32 @@ namespace HelloWorld
             public string Model { get; set; }
             public int Year { get; set; }
             public string Color { get; set; }
+
+            /* public constructor class */
+            public Car(string make, string model, int year, string color)
+            {
+                Make = make;
+                Model = model;
+                Year = year;
+                Color = color;
+            }
+
+            public string DetermineMarketValue()
+            {
+                string value;
+
+                if (Year < 1970)
+                {
+                    value = "Your car has a low value";
+                }
+                else
+                {
+                    value = "Your car has a high value";
+                }
+
+                return value;
+            }
+
         }
 
         /* Here are soem test methods... */
@@ -140,6 +182,22 @@ namespace HelloWorld
         private static string stringPrinter(string message)
         {
             return message;
+        }
+
+        private static string DetermineCarValue(Car car)
+        {
+            string goodCarValue = "";
+
+            if (car.Year < 1970)
+            {
+                goodCarValue = "Your car has a low value";
+            } 
+            else
+            {
+                goodCarValue = "Your car has a high value";
+            }
+
+            return goodCarValue;
         }
     }
 }
