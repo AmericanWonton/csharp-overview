@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MyClient
+build_property.ProjectDir = D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\

@@ -96,3 +96,23 @@ typed in 'using Sytem;', which uses the System namespace
 
 To look for useful libraries from Microsoft, use Google like this:
 site:microsoft.com WHATEVER_YOU_WANNA_SEARCH_FOR
+
+So you just gotta make sure those assemblies are imported for what you want to do.
+
+There's also open source communities. NuGet is owned by Microsoft, but 
+it should be a way to get the packages you need.
+To access, go to 'Tools', 'NuGet Package Manager', 'Manage NuGet pakages for soloution'
+
+We can also create class libraries by ourselves...
+(For this next part, we created the new project, 'Libray Example')
+
+You can also check the 'MyClient' fodler for a continuation of this soloution
+
+To add your assembly to another project, (a DLL file):
+5:52
+In the soloution explorer, right click 'dependenceies', 'Add Project Refference', then 
+browse to find and try your DLL in another project.
+
+It should be in the 'bin' directory, under release or debug
+That DLL will be copied into the bin of the 'CLIENT' project.
+

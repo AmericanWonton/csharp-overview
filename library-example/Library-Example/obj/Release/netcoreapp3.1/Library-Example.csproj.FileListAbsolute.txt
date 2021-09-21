@@ -1,0 +1,9 @@
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\bin\Release\netcoreapp3.1\Library-Example.deps.json
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\bin\Release\netcoreapp3.1\Library-Example.dll
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\bin\Release\netcoreapp3.1\Library-Example.pdb
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\obj\Release\netcoreapp3.1\Library-Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\obj\Release\netcoreapp3.1\Library-Example.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\obj\Release\netcoreapp3.1\Library-Example.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\obj\Release\netcoreapp3.1\Library-Example.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\obj\Release\netcoreapp3.1\Library-Example.dll
+D:\DotNetWorkspace\csharp-overview\library-example\Library-Example\obj\Release\netcoreapp3.1\Library-Example.pdb

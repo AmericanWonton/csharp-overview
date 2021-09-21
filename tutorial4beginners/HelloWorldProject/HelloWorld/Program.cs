@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Text;
+using System.Net;
 
 /* To run the application, use CTRL + F5  */
 namespace HelloWorld
@@ -142,27 +143,57 @@ namespace HelloWorld
             mySecondCar.DoSomethingPublic();
 
             /* Writing to a file */
-            string currentPath = Directory.GetCurrentDirectory();
-            string filePlacement = Path.Join(currentPath, "testFolder", "testFile.txt");
-            Console.WriteLine("Here is the current path of this code: {0}\nHere is where we want the code to go: {1}", currentPath, filePlacement);
+            string filePlacement2 = Path.Combine(Directory.GetCurrentDirectory(), "testFolder", "testFile.txt");
+            Console.WriteLine("Here is the current path of this code: {0}", filePlacement2);
             /* If that file does not exist, we will make it */
-            if (File.Exists(filePlacement))
+            if (File.Exists(filePlacement2))
             {
                 Console.WriteLine("This file exists, it's cool");
                 string writeInText = "Hey, though we would just write this in here...";
-                File.WriteAllText(@filePlacement, writeInText);
+                File.WriteAllText(filePlacement2, writeInText);
             }
             else
             {
                 Console.WriteLine("File does not exist, not cool man...making it now.");
-                string writeInText = "Hey, though we would just write this in here...";
+                string writeInText = "Hey, thought we would just write this in here...";
+                string filePath = @filePlacement2;
+                try
+                {
+                    // Create the file, or overwrite if the file exists.
+                    using (FileStream fs = File.Create(filePath))
+                    {
+                        byte[] info = new UTF8Encoding(true).GetBytes(writeInText);
+                        // Add some information to the file.
+                        fs.Write(info, 0, info.Length);
+                    }
 
-                //Create the file in path
-                Directory.CreateDirectory(filePlacement);
+                    // Open the stream and read it back.
+                    using (StreamReader sr = File.OpenText(filePath))
+                    {
+                        string s = "";
+                        while ((s = sr.ReadLine()) != null)
+                        {
+                            Console.WriteLine(s);
+                        }
+                    }
+
+                    Console.WriteLine("File has been written, the end");
+                }
+
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Failed to write the file: {0}", ex.ToString());
+                    Console.WriteLine(ex.ToString());
+                }
 
 
-                //File.WriteAllText(@filePlacement, writeInText);
             }
+
+            /* Some web/example of importing assemblies */
+            WebClient client = new WebClient();
+            string reply = client.DownloadString("https://josephkeller.me");
+
+            Console.WriteLine("Here is that reply: {0}", reply);
         }
 
         /* Here are some defined classes */
