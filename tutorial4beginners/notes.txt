@@ -1,0 +1,67 @@
+Here are the notes for all of this lesson: https://www.youtube.com/watch?v=gfkTfcpWqAY
+I also used this, it's more extensive: https://www.youtube.com/watch?v=FPeGkedZykA 
+
+C# vs. .NET
+C# is a programming language and .NET is a framework for building applications for windows...it's not
+limited to C#
+
+.NET is comprised of two things:
+1. CLR(Common Language Runtime) - Compiles application code to machine code for running. Uses 'JIT', or
+'Just in Time' code
+
+2. Class Library
+
+History of C#:
+Microsoft wanted a language that could be translated to machine code on Linux AND windows...
+so they borrowed ideas from Java. CLR is an application that is used to translate the machine language
+
+------------------------------------------
+.Net applications architrecture:
+Applications are made up of classes
+
+Classes - Contain data and Methods/functions
+Namespace - Container for related classes
+
+Assembly - A container for related namespaces. It can be an executable or 'DLL',
+or 'Dynamically Listed Language'.
+
+Application - A build up of assemblys
+
+------------------------------------------
+
+'Your First Program' Section
+NOTE: Not quite sure how to work on this in VS code...so maybe I should start with Visual Studio :(
+Look at video section for how to set a project up in Visual Studio
+
+It's a lot like Java...if you want to use different namespaces, you'll need 
+to import them at the top with the following: using NAME-OF-NAMESPACE.
+
+Here are some common imports:
+using System; //Uses a bunch of stuff within .NET framework
+using System.Collecitons.Generic; //Used to work with lists, collections 
+using System.Linq; //Used to work with data
+using System.Text //Used to work with text/coding
+using System.Threading.Tasks; //Used for multi-threading in an application
+
+Within an applicaiton, you should have a program class...inside that is a 'Main' function, 
+which is an entrypoint to the application. Example:
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+        }
+    }
+}
+
+TBH, this might look a little different, based on what version of .NET you have...
+
+To run the application:
+CTRL + 5 
+You can click start on the green arrow on the top.
+You can also click 'Debug', then 'Start Debug'
+
+'bin' folder contains the binary file that the computer runs

@@ -1,0 +1,14 @@
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\DotNetWorkspace\csharp-overview\tutorial4beginners\HelloWorldProject\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
