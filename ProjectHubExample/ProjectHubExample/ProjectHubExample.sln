@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScraperLibrary2", "ScraperLibrary2\ScraperLibrary2.csproj", "{FEF36CA8-EB58-4258-89E5-25A7F3E9B236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapeTheClient", "ScrapeTheClient\ScrapeTheClient.csproj", "{99D18CAA-E673-4F30-AB60-4EE951CB3913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF36CA8-EB58-4258-89E5-25A7F3E9B236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF36CA8-EB58-4258-89E5-25A7F3E9B236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF36CA8-EB58-4258-89E5-25A7F3E9B236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF36CA8-EB58-4258-89E5-25A7F3E9B236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D18CAA-E673-4F30-AB60-4EE951CB3913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D18CAA-E673-4F30-AB60-4EE951CB3913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D18CAA-E673-4F30-AB60-4EE951CB3913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D18CAA-E673-4F30-AB60-4EE951CB3913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F72AD6-1105-4286-8E61-11A9198A042A}
+	EndGlobalSection
+EndGlobal

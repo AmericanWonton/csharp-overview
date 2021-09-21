@@ -1,0 +1,9 @@
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\bin\Debug\netcoreapp3.1\ScrapeTheClient.deps.json
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\bin\Debug\netcoreapp3.1\ScrapeTheClient.dll
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\bin\Debug\netcoreapp3.1\ScrapeTheClient.pdb
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.dll
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.pdb

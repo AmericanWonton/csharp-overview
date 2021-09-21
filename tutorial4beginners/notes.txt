@@ -116,3 +116,10 @@ browse to find and try your DLL in another project.
 It should be in the 'bin' directory, under release or debug
 That DLL will be copied into the bin of the 'CLIENT' project.
 
+There's an even MORE streamlined way to do this....
+
+
+------------------------------------------------------
+Working with .NET framework,(more streamlined)
+We made a new 'blank project'
+5:55 continued...
