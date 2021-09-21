@@ -65,3 +65,34 @@ You can click start on the green arrow on the top.
 You can also click 'Debug', then 'Start Debug'
 
 'bin' folder contains the binary file that the computer runs
+
+'Instantiated Classes' are classes that are filled in with values by you at the conception of 
+the class being called,(like youre own constructor class 
+
+Static means you don't need to include a method of that class 
+
+Encapsulation means that there are certain methods that should remain within a class...
+another class shouldn't know another class works, just what is publicly exposed.
+If it needs to be private, keep it private
+
+There's also 'inhereted' and 'protected' as accessibility modifiers...not really needed until 
+you are advanced.
+
+-----------------------------------------------
+
+Working with .NET framework/library
+.NET assemblies are being formed every time we run the application
+You can see these in the 'bin' directories.
+This will have 'Debug' and 'Release' versions
+You can also build it in VS, under 'Build', 'Build Soloution'
+
+In that case, the .NET framework needs to be installed on any computer where you want the application to 
+run. Windows already has it, it's globally accessible...so you gotta do some weird stuff with Linux
+
+Think of 'NameSpaces' like 'Last Names' for refferences of classes. There can be multiple classes with 
+the same name, but they are uniquely identified with Namespaces.
+For instance, we COULD use System.Console.WriteLine...but we don't need to because we 
+typed in 'using Sytem;', which uses the System namespace
+
+To look for useful libraries from Microsoft, use Google like this:
+site:microsoft.com WHATEVER_YOU_WANNA_SEARCH_FOR

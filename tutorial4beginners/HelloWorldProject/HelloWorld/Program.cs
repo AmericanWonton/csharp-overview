@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Text;
 
 /* To run the application, use CTRL + F5  */
 namespace HelloWorld
@@ -136,6 +138,31 @@ namespace HelloWorld
             Console.WriteLine("{0}, {1}, {2}, {3}", myCar.Make, myCar.Model, myCar.Year, myCar.Color);
 
             Car mySecondCar = new Car("Ford", "Escape", 2005, "Red-ish");
+
+            mySecondCar.DoSomethingPublic();
+
+            /* Writing to a file */
+            string currentPath = Directory.GetCurrentDirectory();
+            string filePlacement = Path.Join(currentPath, "testFolder", "testFile.txt");
+            Console.WriteLine("Here is the current path of this code: {0}\nHere is where we want the code to go: {1}", currentPath, filePlacement);
+            /* If that file does not exist, we will make it */
+            if (File.Exists(filePlacement))
+            {
+                Console.WriteLine("This file exists, it's cool");
+                string writeInText = "Hey, though we would just write this in here...";
+                File.WriteAllText(@filePlacement, writeInText);
+            }
+            else
+            {
+                Console.WriteLine("File does not exist, not cool man...making it now.");
+                string writeInText = "Hey, though we would just write this in here...";
+
+                //Create the file in path
+                Directory.CreateDirectory(filePlacement);
+
+
+                //File.WriteAllText(@filePlacement, writeInText);
+            }
         }
 
         /* Here are some defined classes */
@@ -145,6 +172,15 @@ namespace HelloWorld
             public string Model { get; set; }
             public int Year { get; set; }
             public string Color { get; set; }
+
+            /* Basic car constructor class */
+            public Car()
+            {
+                Make = "basic car";
+                Model = "Basic Model";
+                Year = 1995;
+                Color = "Blue Basic";
+            }
 
             /* public constructor class */
             public Car(string make, string model, int year, string color)
@@ -170,6 +206,21 @@ namespace HelloWorld
 
                 return value;
             }
+
+            /* Example public and private methods*/
+            public void DoSomethingPublic()
+            {
+                Console.WriteLine("Here we would be doing something");
+                //We cannot call this method outside of this class, because it is private
+                Console.WriteLine(helperPrivateMethod());
+            }
+
+            private string helperPrivateMethod()
+            {
+                return "Hello from the private method.";
+            }
+
+
 
         }
 
