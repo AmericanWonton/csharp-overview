@@ -1,0 +1,23 @@
+.NET is a wellpaying skill to learn...very popular
+
+.NET is used to develop all kind of applications
+
+ASP = Active Server Pages
+Core - Open Source cross paltform of ASP 
+
+.NET consists of a runtime engine for libraries for executing program.
+
+C# is the language of choice 
+.NET was a response from building mostly desktop applications to web applications 
+.NET was created as a response to JAVA
+
+An ASP.NET page is a web page that contains HTML/dynamic ASP markup
+
+It runs on a server, combinging static HTML code and updating the dynamic ASP elements to produce a final HTML 
+page.
+
+It runs the backend and frontend,(full stack).
+
+Can be combined with front-end services
+
+IIS Express is microsoft's webserver
