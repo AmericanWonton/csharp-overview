@@ -123,3 +123,29 @@ There's an even MORE streamlined way to do this....
 Working with .NET framework,(more streamlined)
 We made a new 'blank project'
 5:55 continued...
+
+You can't start a library...so you need to select the project with the 'Main'
+function, right clickt the project in the soloution explorer, then 
+set it as the startup project.
+
+Having an issue doing this...created a new folder to test this...
+Might have been because I didn't have the 'Scrape Client' as the 
+Console Application...I just had two libraries
+
+You can also make changes to those refferenced libraries and they 
+should still function within your soloution after building.
+
+
+------------------------------------------------------
+Working with Collections
+
+Collections are like cooler Arrays
+
+A lot of the notes are in the project 
+
+Theres a few more expressions he did in the video, I didn't feel the need to
+add all of them.
+
+the 'var' keyword is different in C# than something like Javascript.
+If you want to work with linqs, you must define the query types as var...it just works that way 
+

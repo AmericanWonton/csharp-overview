@@ -7,3 +7,7 @@ D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeThe
 D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.csproj.CoreCompileInputs.cache
 D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.dll
 D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.pdb
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\bin\Debug\netcoreapp3.1\ScraperLibrary2.dll
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\bin\Debug\netcoreapp3.1\ScraperLibrary2.pdb
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\ProjectHubExample\ProjectHubExample\ScrapeTheClient\obj\Debug\netcoreapp3.1\ScrapeTheClient.csproj.CopyComplete

@@ -3,9 +3,11 @@ using System;
 
 namespace ScrapeTheClient
 {
-    public class ScrapeTheClient
+    class Program
     {
-        ScrapeLibrary myScrapeLib = new ScrapeLibrary();
-        string value = myScrapeLib.ScrapeWebPage("https://josephkeller.me");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Dese nuts"); 
+        }
     }
 }

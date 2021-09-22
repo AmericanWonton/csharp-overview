@@ -1,0 +1,17 @@
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\bin\Debug\netcoreapp3.1\ScrapeClient.exe
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\bin\Debug\netcoreapp3.1\ScrapeClient.deps.json
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\bin\Debug\netcoreapp3.1\ScrapeClient.runtimeconfig.json
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\bin\Debug\netcoreapp3.1\ScrapeClient.runtimeconfig.dev.json
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\bin\Debug\netcoreapp3.1\ScrapeClient.dll
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\bin\Debug\netcoreapp3.1\ScrapeClient.pdb
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.dll
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.pdb
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.genruntimeconfig.cache
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\bin\Debug\netcoreapp3.1\ScrapeLibrary.dll
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\bin\Debug\netcoreapp3.1\ScrapeLibrary.pdb
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\ProjectExampleHub2\TestExampleHub2Fixed\ScrapeClient\obj\Debug\netcoreapp3.1\ScrapeClient.csproj.CopyComplete
