@@ -1,4 +1,7 @@
 ﻿using System;
+using System.IO;
+using System.Text;
+using System.Net;
 
 /* To run the application, use CTRL + F5  */
 namespace HelloWorld
@@ -136,6 +139,61 @@ namespace HelloWorld
             Console.WriteLine("{0}, {1}, {2}, {3}", myCar.Make, myCar.Model, myCar.Year, myCar.Color);
 
             Car mySecondCar = new Car("Ford", "Escape", 2005, "Red-ish");
+
+            mySecondCar.DoSomethingPublic();
+
+            /* Writing to a file */
+            string filePlacement2 = Path.Combine(Directory.GetCurrentDirectory(), "testFolder", "testFile.txt");
+            Console.WriteLine("Here is the current path of this code: {0}", filePlacement2);
+            /* If that file does not exist, we will make it */
+            if (File.Exists(filePlacement2))
+            {
+                Console.WriteLine("This file exists, it's cool");
+                string writeInText = "Hey, though we would just write this in here...";
+                File.WriteAllText(filePlacement2, writeInText);
+            }
+            else
+            {
+                Console.WriteLine("File does not exist, not cool man...making it now.");
+                string writeInText = "Hey, thought we would just write this in here...";
+                string filePath = @filePlacement2;
+                try
+                {
+                    // Create the file, or overwrite if the file exists.
+                    using (FileStream fs = File.Create(filePath))
+                    {
+                        byte[] info = new UTF8Encoding(true).GetBytes(writeInText);
+                        // Add some information to the file.
+                        fs.Write(info, 0, info.Length);
+                    }
+
+                    // Open the stream and read it back.
+                    using (StreamReader sr = File.OpenText(filePath))
+                    {
+                        string s = "";
+                        while ((s = sr.ReadLine()) != null)
+                        {
+                            Console.WriteLine(s);
+                        }
+                    }
+
+                    Console.WriteLine("File has been written, the end");
+                }
+
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Failed to write the file: {0}", ex.ToString());
+                    Console.WriteLine(ex.ToString());
+                }
+
+
+            }
+
+            /* Some web/example of importing assemblies */
+            WebClient client = new WebClient();
+            string reply = client.DownloadString("https://josephkeller.me");
+
+            Console.WriteLine("Here is that reply: {0}", reply);
         }
 
         /* Here are some defined classes */
@@ -145,6 +203,15 @@ namespace HelloWorld
             public string Model { get; set; }
             public int Year { get; set; }
             public string Color { get; set; }
+
+            /* Basic car constructor class */
+            public Car()
+            {
+                Make = "basic car";
+                Model = "Basic Model";
+                Year = 1995;
+                Color = "Blue Basic";
+            }
 
             /* public constructor class */
             public Car(string make, string model, int year, string color)
@@ -170,6 +237,21 @@ namespace HelloWorld
 
                 return value;
             }
+
+            /* Example public and private methods*/
+            public void DoSomethingPublic()
+            {
+                Console.WriteLine("Here we would be doing something");
+                //We cannot call this method outside of this class, because it is private
+                Console.WriteLine(helperPrivateMethod());
+            }
+
+            private string helperPrivateMethod()
+            {
+                return "Hello from the private method.";
+            }
+
+
 
         }
 

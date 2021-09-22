@@ -1,0 +1,13 @@
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.exe
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.deps.json
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.runtimeconfig.json
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.runtimeconfig.dev.json
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.dll
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\bin\Debug\netcoreapp3.1\TimerEventExample.pdb
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.dll
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.pdb
+D:\DotNetWorkspace\csharp-overview\TimerEventExample\TimerEventExample\obj\Debug\netcoreapp3.1\TimerEventExample.genruntimeconfig.cache

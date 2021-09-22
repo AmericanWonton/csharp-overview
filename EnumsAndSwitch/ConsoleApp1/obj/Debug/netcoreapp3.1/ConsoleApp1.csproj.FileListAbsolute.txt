@@ -1,0 +1,14 @@
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\DotNetWorkspace\csharp-overview\EnumsAndSwitch\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

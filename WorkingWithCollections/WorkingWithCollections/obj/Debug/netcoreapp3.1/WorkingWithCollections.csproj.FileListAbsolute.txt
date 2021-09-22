@@ -1,0 +1,14 @@
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.exe
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.deps.json
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.runtimeconfig.json
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.runtimeconfig.dev.json
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.dll
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.1\WorkingWithCollections.pdb
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.dll
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.pdb
+D:\DotNetWorkspace\csharp-overview\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.1\WorkingWithCollections.genruntimeconfig.cache

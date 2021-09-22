@@ -1,0 +1,14 @@
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.exe
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.deps.json
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.json
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.dev.json
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.dll
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.pdb
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.dll
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.pdb
+D:\DotNetWorkspace\csharp-overview\HandlingExceptions\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.genruntimeconfig.cache

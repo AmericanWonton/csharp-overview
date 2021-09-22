@@ -1,0 +1,17 @@
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.exe
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.deps.json
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.runtimeconfig.json
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.runtimeconfig.dev.json
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.dll
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.pdb
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\bin\Debug\netcoreapp3.1\Library-Example.dll
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\bin\Debug\netcoreapp3.1\Library-Example.pdb
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.AssemblyInfoInputs.cache
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.AssemblyInfo.cs
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.csproj.CopyComplete
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.dll
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.pdb
+D:\DotNetWorkspace\csharp-overview\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.genruntimeconfig.cache

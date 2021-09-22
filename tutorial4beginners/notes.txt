@@ -65,3 +65,127 @@ You can click start on the green arrow on the top.
 You can also click 'Debug', then 'Start Debug'
 
 'bin' folder contains the binary file that the computer runs
+
+'Instantiated Classes' are classes that are filled in with values by you at the conception of 
+the class being called,(like youre own constructor class 
+
+Static means you don't need to include a method of that class 
+
+Encapsulation means that there are certain methods that should remain within a class...
+another class shouldn't know another class works, just what is publicly exposed.
+If it needs to be private, keep it private
+
+There's also 'inhereted' and 'protected' as accessibility modifiers...not really needed until 
+you are advanced.
+
+-----------------------------------------------
+
+Working with .NET framework/library
+.NET assemblies are being formed every time we run the application
+You can see these in the 'bin' directories.
+This will have 'Debug' and 'Release' versions
+You can also build it in VS, under 'Build', 'Build Soloution'
+
+In that case, the .NET framework needs to be installed on any computer where you want the application to 
+run. Windows already has it, it's globally accessible...so you gotta do some weird stuff with Linux
+
+Think of 'NameSpaces' like 'Last Names' for refferences of classes. There can be multiple classes with 
+the same name, but they are uniquely identified with Namespaces.
+For instance, we COULD use System.Console.WriteLine...but we don't need to because we 
+typed in 'using Sytem;', which uses the System namespace
+
+To look for useful libraries from Microsoft, use Google like this:
+site:microsoft.com WHATEVER_YOU_WANNA_SEARCH_FOR
+
+So you just gotta make sure those assemblies are imported for what you want to do.
+
+There's also open source communities. NuGet is owned by Microsoft, but 
+it should be a way to get the packages you need.
+To access, go to 'Tools', 'NuGet Package Manager', 'Manage NuGet pakages for soloution'
+
+We can also create class libraries by ourselves...
+(For this next part, we created the new project, 'Libray Example')
+
+You can also check the 'MyClient' fodler for a continuation of this soloution
+
+To add your assembly to another project, (a DLL file):
+5:52
+In the soloution explorer, right click 'dependenceies', 'Add Project Refference', then 
+browse to find and try your DLL in another project.
+
+It should be in the 'bin' directory, under release or debug
+That DLL will be copied into the bin of the 'CLIENT' project.
+
+There's an even MORE streamlined way to do this....
+
+
+------------------------------------------------------
+Working with .NET framework,(more streamlined)
+We made a new 'blank project'
+5:55 continued...
+
+You can't start a library...so you need to select the project with the 'Main'
+function, right clickt the project in the soloution explorer, then 
+set it as the startup project.
+
+Having an issue doing this...created a new folder to test this...
+Might have been because I didn't have the 'Scrape Client' as the 
+Console Application...I just had two libraries
+
+You can also make changes to those refferenced libraries and they 
+should still function within your soloution after building.
+
+
+------------------------------------------------------
+Working with Collections
+
+Collections are like cooler Arrays
+
+A lot of the notes are in the project 
+
+Theres a few more expressions he did in the video, I didn't feel the need to
+add all of them.
+
+the 'var' keyword is different in C# than something like Javascript.
+If you want to work with linqs, you must define the query types as var...it just works that way 
+
+--------------------------------------------------
+Working with Enums and Switch
+
+An enumeration is a limit that constrains values for data entry...
+it only constrains those values to what can be entered in the system.
+
+Enumeration is a technical numbering of an item. They're used frequently in .Net 
+
+
+------------------------------------------------------
+Working with Error handling
+
+'Exception' is a generic version of exceptions that can be caught.
+
+You can get more specific by researching the function you are performing.
+
+Start with specific cases, then work down to your more general cases
+
+A bunch of try catch isn't ideal...you wanna design an application that just works
+
+
+---------------------------------------------------
+Understanding Event Driven Programming
+
+Events are things being raised that your application can respond to.
+
+It's stuff like button presses, drag and drop, etc.
+You can ignore some, for example
+
+WPF = Windows Presentation Foundation,(the basic for building a windows GUI), in the 
+.NET framework
+
+In New Project, select WPF
+May wanna watch the video for morst of this:
+7:37:00
+Those event handlers we designed in CSHARP are compiled at runtime from the XML. YOu can also define 
+events yourself.
+
+------------------------------------------------------
+Where to go from here...
