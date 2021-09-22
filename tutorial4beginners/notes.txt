@@ -149,3 +149,28 @@ add all of them.
 the 'var' keyword is different in C# than something like Javascript.
 If you want to work with linqs, you must define the query types as var...it just works that way 
 
+--------------------------------------------------
+Working with Enums and Switch
+
+An enumeration is a limit that constrains values for data entry...
+it only constrains those values to what can be entered in the system.
+
+Enumeration is a technical numbering of an item. They're used frequently in .Net 
+
+
+------------------------------------------------------
+Working with Error handling
+
+'Exception' is a generic version of exceptions that can be caught.
+
+You can get more specific by researching the function you are performing.
+
+Start with specific cases, then work down to your more general cases
+
+A bunch of try catch isn't ideal...you wanna design an application that just works
+
+
+---------------------------------------------------
+Understanding Event Driven Programming
+
+Events are things being raised that your application can respond to
