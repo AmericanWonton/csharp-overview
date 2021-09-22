@@ -173,4 +173,19 @@ A bunch of try catch isn't ideal...you wanna design an application that just wor
 ---------------------------------------------------
 Understanding Event Driven Programming
 
-Events are things being raised that your application can respond to
+Events are things being raised that your application can respond to.
+
+It's stuff like button presses, drag and drop, etc.
+You can ignore some, for example
+
+WPF = Windows Presentation Foundation,(the basic for building a windows GUI), in the 
+.NET framework
+
+In New Project, select WPF
+May wanna watch the video for morst of this:
+7:37:00
+Those event handlers we designed in CSHARP are compiled at runtime from the XML. YOu can also define 
+events yourself.
+
+------------------------------------------------------
+Where to go from here...
