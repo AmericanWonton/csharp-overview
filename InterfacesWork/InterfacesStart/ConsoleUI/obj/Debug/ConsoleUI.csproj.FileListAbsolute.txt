@@ -1,0 +1,10 @@
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\DemoLibrary.dll
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\DemoLibrary.pdb
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.pdb

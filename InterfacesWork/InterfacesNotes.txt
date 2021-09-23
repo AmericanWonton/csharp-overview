@@ -1,0 +1,22 @@
+An 'Interface' is a contract. It says,
+"Here's a thing...that will have a thing you can work with"
+
+FOr example, click 'Add', 'New Item', 'Interface'
+
+Naming Convention is a capital I, followed by Pascalcase Variable
+
+EVERYTHING in the interface is public....so no variables need to be valued as such
+
+
+There's no code in here...just things you should have.
+
+A 'Signature is just the important bits of the code
+
+If you want to add the neccessary propertys to classes that are going to be under the interface, you can highlight
+it, then press CTRL + . ,(14:13).
+
+You can remove the exception given and just set the property like a normal class would...
+that's just a microsoft safety feature
+
+We also gave the DIgitalProductModel a set as well...we can do that, becuase it fufills the get
+from the promise of the interface
