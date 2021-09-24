@@ -1,0 +1,71 @@
+.NET is a wellpaying skill to learn...very popular
+
+.NET is used to develop all kind of applications
+
+ASP = Active Server Pages
+Core - Open Source cross paltform of ASP 
+
+.NET consists of a runtime engine for libraries for executing program.
+
+C# is the language of choice 
+.NET was a response from building mostly desktop applications to web applications 
+.NET was created as a response to JAVA
+
+An ASP.NET page is a web page that contains HTML/dynamic ASP markup
+
+It runs on a server, combinging static HTML code and updating the dynamic ASP elements to produce a final HTML 
+page.
+
+It runs the backend and frontend,(full stack).
+
+Can be combined with front-end services
+
+IIS Express is microsoft's webserver
+
+cshtml == csharp HTML
+
+MVC = Model, Views, and Controllers
+It's a design pattern. Code is smaller and modular
+
+Model = classes(Objects). Manages behavior and data
+View = WebPage,(Razor HTML). Manages display of data
+Controller = Connects Models business logic, and webpage. Handles page events and navigation between pages.
+
+
+------------------------------------
+Creating a 'view'
+
+Is HTML/CSS Code,(or similar)
+
+Usaully gets a list of data from the controller
+
+Dynamically combines data with HTML in a template
+That language is Razor,(ASP.NET)
+
+Models are data related,(Class with objects).
+Uses SQL Statements, supplies the controller with a list of objects
+
+Quick tip, to generate stuff instantly, hit tab twice
+
+Add a controller in the 'Controllers' folder by right clicking and clicking add,
+Select MCV Controller with views, using entityr framework
+
+
+----------------------------------------
+Working with Data
+Watch parts of the video from 24 mins...
+
+Switch to 'Package Manager Console' for this part. Go to tools, NuGet package manager, Package Manager Console
+This works with an 'ORM', (Object Relation Mapper)
+
+-----------------------------
+Linking Views
+Starts around 30 mins 
+In the asp-Controller secion, you can just put the name of the controller, and not add 
+'Contorller'...Microsoft has the 'Controller' part assumed.
+
+You can right click on the newly created function to create the view
+
+
+---------------
+For the styling, they really don't want you toying around in the LIB folder...just the css and js folders

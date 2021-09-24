@@ -1,0 +1,6 @@
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\DemoLibrary\obj\Debug\DemoLibrary.pdb

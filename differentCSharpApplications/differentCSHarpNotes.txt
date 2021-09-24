@@ -1,0 +1,22 @@
+API are used for app to app communications...so yeah.
+
+
+Razor pages are for quick, low overhead pages. Stuff that's mostly static. 
+They're server side rendered and really quick. 
+
+ASP.Net Core is a bundle of these
+
+
+MVC is a big one... but it's taken a back-burner for the most part.
+It's a GUI as well as APIS...so pages and APIS 
+
+
+Blazor is server/client side...mostly the best of both worlds
+It's fast for the User
+
+
+Javascript frameworks ALL download to the client...and the work gets done on the client.
+
+Pages can be interactive because they don't have to go to the server
+
+Blazor sits in the middle and does both
