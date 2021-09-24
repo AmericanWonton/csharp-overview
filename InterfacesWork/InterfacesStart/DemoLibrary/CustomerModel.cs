@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoLibrary
 {
-    public class CustomerModel
+    public class CustomerModel : ICustomerModel
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

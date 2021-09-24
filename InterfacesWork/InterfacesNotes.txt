@@ -20,3 +20,20 @@ that's just a microsoft safety feature
 
 We also gave the DIgitalProductModel a set as well...we can do that, becuase it fufills the get
 from the promise of the interface
+
+Again, you only want to design interfaces with properties a class it would work with SHOULD have.
+Just the minimal amount of properties
+
+If you want classes to inheretit from other classes, the interface must be listed AFTER the 
+definition of that class
+
+If you want to extract an interface on a class, hover on the class, press CTRL + .
+
+Implement is different from inherent.
+You IMPLEMENT  an interface, because you aren't brinign down code
+
+You can apply two interfaces to two classes
+It's saying you will have ALL the stuff from one class AND another 
+
+You can pour over the interfaces into each other as well, (see IDigitlaProductModel),
+so they will require the promises of BOTH
