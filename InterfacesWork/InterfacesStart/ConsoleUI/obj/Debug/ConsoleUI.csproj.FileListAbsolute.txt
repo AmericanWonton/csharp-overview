@@ -8,3 +8,13 @@ D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\
 D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
 D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.exe
 D:\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\joek\Documents\DotNetWorkspace\csharp-overview\InterfacesWork\InterfacesStart\ConsoleUI\obj\Debug\ConsoleUI.pdb

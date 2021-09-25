@@ -17,6 +17,12 @@ namespace ConsoleUI
             foreach (IProductModel prod in cart)
             {
                 prod.ShipItem(customer);
+                //Add a digtial only tracker if the product model is digital
+                //We created a local variable called 'digital'
+                if (prod is IDigitalProductModel digital)
+                {
+                    Console.WriteLine($"For the { digital.Title } you have { digital.TotalDownloadsLeft } downloads left.");
+                }
             }
 
             Console.ReadLine();

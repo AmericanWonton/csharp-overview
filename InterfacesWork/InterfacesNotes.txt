@@ -37,3 +37,5 @@ It's saying you will have ALL the stuff from one class AND another
 
 You can pour over the interfaces into each other as well, (see IDigitlaProductModel),
 so they will require the promises of BOTH
+
+To use the 'is' operator, you need to use VS 2017; it's only on a certain version of .NET
