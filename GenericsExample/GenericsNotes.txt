@@ -1,0 +1,5 @@
+Here is the video for this: https://www.youtube.com/watch?v=l6s7AvZx5j8
+
+We don't use 'ArrayList'...they kinda suck and are depreciated
+
+We like compile time errors...NOT run time errors.
